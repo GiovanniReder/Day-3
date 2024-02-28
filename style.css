@@ -1,0 +1,61 @@
+#logo {
+margin-left:35%;
+margin-right: 50%;
+}
+h1 {
+    font-size: 250%;
+    text-align: center;
+}
+#headtext {
+    display: flex;
+    justify-content: center;
+    color: rgb(8, 76, 107);
+    background-color: rgba(244, 200, 3, 0.111);
+    padding: 1%;
+    border-top: solid 1px orange;
+    font-weight: 700;
+}
+#spanhead {
+    margin-left: 0.25em;
+    }
+main {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    border-radius: 2%;
+}
+
+#sally {
+    text-align: center;
+    color: rgba(162, 156, 156, 0.823);
+}
+
+#link {
+    margin-top: 0;
+    color:rgb(5, 141, 141);
+}
+#link1 {
+    border-left: solid 1px orange;
+    padding-left: 2%;
+}
+h4 {
+    margin-bottom: 0%;
+    color: rgb(189, 131, 23);
+}
+#ingredients {
+    border-bottom: solid 1px lightskyblue;
+    padding-bottom: 3%;
+}
+#method {
+    border-bottom: solid 1px lightskyblue;
+    padding-bottom: 3%;
+}
+footer {
+    text-align: center;
+    margin-right: 37%;
+}
+#link2 {
+    color:rgb(5, 141, 141);
+}
